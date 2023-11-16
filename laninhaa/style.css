@@ -1,0 +1,17 @@
+.tittle {
+color: brown;
+text-align: center;
+background-color: #FFC0CB;
+height: 60px;
+padding-top: 20px;
+}
+
+.intro {
+    text-align: center;
+    font-size: 20;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
